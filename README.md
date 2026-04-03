@@ -66,15 +66,7 @@ The repository is created to demonstrate system architecture, dashboard function
 
 ## 📷 Preview
 
-https://github.com/user-attachments/assets/YOUR-PREVIEW-LINK-HERE
+
 
 ---
 
-🖼 **Images**  
-Add your screenshots or demo images to the `images/` folder and reference them in the README:  
-
-```markdown
-![Dashboard](images/dashboard.png)
-![User Management](images/users.png)
-![Course Management](images/courses.png)
-![Orders](images/orders.png)
